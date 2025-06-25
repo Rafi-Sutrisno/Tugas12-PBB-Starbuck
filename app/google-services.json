@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "817482553667",
+    "project_id": "starbak-ahda",
+    "storage_bucket": "starbak-ahda.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817482553667:android:7301f17a7a112-Secret",
+        "android_client_info": {
+          "package_name": "com.example.starbak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJq7YENRj2nml-6hox0PtKjZ9-Secret"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
